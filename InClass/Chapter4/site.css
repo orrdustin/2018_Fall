@@ -1,0 +1,9 @@
+html, body {
+    background: ghostwite;
+}
+
+#container { width: 80%; margin: 0 auto; }
+
+ul.list-unstyled li {
+    list-style-type: none;
+}
